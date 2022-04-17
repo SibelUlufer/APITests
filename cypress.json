@@ -1,0 +1,8 @@
+{
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "env": {
+    "accessToken": "f773cfbd5733d1cb91fd65df2bba2304294eae09916ed7f02d522c8fc9b0d557"
+  },
+  "projectId": "a6gtb1"
+}

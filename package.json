@@ -1,0 +1,17 @@
+{
+  "name": "apitestautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run":"npx cypress run --headless --record --key 9d045b8b-1463-4a2a-b043-90e434faacf3 --browser chrome",
+    "cy:run-dashboard":"npx cypress run --headless --record --key 9d045b8b-1463-4a2a-b043-90e434faacf3 --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.4",
+    "prettier": "^2.6.2"
+  }
+}
